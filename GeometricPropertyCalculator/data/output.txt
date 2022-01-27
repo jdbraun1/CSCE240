@@ -1,0 +1,3 @@
+TRIANGLE Perimeter: 19
+RECTANGLE Perimeter: Insufficient information
+CIRCLE Perimeter: Insufficient information
