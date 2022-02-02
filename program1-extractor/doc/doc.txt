@@ -1,0 +1,20 @@
+This program is an extractor so that I can get the information from my
+district. I began with the includes. I added iostream so I could use cin
+and cout and I added fstream and sstream so that I could read and write
+files. I used namespace std to simplify the coding. My only method reads
+the district and outputs the information to an output file with indentation
+after every word. District is given in the parameters of the method; however
+there needs to be a local version of the district information. The method
+checks to see if the input and output files are open and if they are it
+initilizes the counts for words, lines, and characters. It uses a while loop
+to get the line from the input file and then a while loop to parse each line
+to get each single word from the line. Each word is then printed to the output
+file with an indent after every word. It then counts the characters in each
+word. After that it prints the statistics to the console and closes both files.
+It also has an else condition just in case the file can not be opened. 
+
+In main I just have a cin command to get the input from the user in the console.
+The command takes the whole line and then searches for the character 9 to see if 
+the user asked for my district (the only one I have a local file for). If not it 
+it prints there is no local file. If the user asks for district 9 it runs my read
+district command that does everything listed above. 
