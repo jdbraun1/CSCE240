@@ -1,8 +1,9 @@
 This program is an extractor so that I can get the information from my
 district. I began with the includes. I added iostream so I could use cin
 and cout and I added fstream and sstream so that I could read and write
-files. I used namespace std to simplify the coding. My only method reads
-the district and outputs the information to an output file with indentation
+files. I used namespace std to simplify the coding. 
+
+My only method reads the district and outputs the information to an output file with indentation
 after every word. District is given in the parameters of the method; however
 there needs to be a local version of the district information. The method
 checks to see if the input and output files are open and if they are it
