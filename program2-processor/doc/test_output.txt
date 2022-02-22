@@ -1,0 +1,98 @@
+Supported command line options:
+
+prog2Processor "Contact Information"
+
+Output:
+Representative Neal A. Collins 
+Republican Pickens 
+District 5 Pickens County 
+Columbia Address 
+418C Blatt Bldg. 
+Columbia 29201 
+Business Phone (803) 212-6913 
+Home Address 
+P.O. Box 906 
+Easley 29641 
+Home Phone (864) 350-4175 
+
+
+prog2Processor "Contact Information:name"
+
+Output:
+Neal A. Collins
+
+
+prog2Processor "Contact Information:region"
+
+Output:
+District 5 Pickens County
+
+
+prog2Processor "Contact Information:address, Home"
+
+Output:
+P.O. Box 906 Easley 29641
+
+prog2Processor "Contact Information:address, Columbia"
+
+Output:
+418C Blatt Bldg. Columbia 29201
+
+prog2Processor "Contact Information:phone, home"
+
+Output:
+Home Phone (864) 350-4175
+
+prog2Processor "Contact Information:phone, business"
+
+Output:
+Business Phone (803) 212-6913
+
+prog2Processor "Personal Information"
+
+Output:
+Attorney	
+Residing	in	Easley	
+Born	July	6,	1982	in	Easley	
+Son	of	Jack	B.	Collins,	William	C.	Clardy,	and	Mary	R.	Clardy	
+Furman	University,	B.A.,	2004	
+University	of	South	Carolina,	School	of	Law,	J.D.,	2007	
+Eagle	Scout	
+Member,	South	Carolina	Bar	Association	
+North	Carolina	Bar	Association	
+NCAA	Wrestling	Official	
+USPA	B-licensed	skydiver	
+Boy	Scouts	of	America,	Blue	Ridge	Council	
+Pickens	District	Board	
+Easley	Chamber	of	Commerce	
+Honorary	member,	Easley	Rotary	Club	
+Chairman,	South	Carolina	House	Freshmen	Caucus,	2014
+
+prog2Processor "Committee Assignments"
+
+Output:
+Ethics	
+Judiciary,	2nd	V.C.
+
+prog2Processor "Sponsored Bills in the House"
+
+Output:
+H 3066 General Bill
+H 3079 Joint Resolution
+H 3080 General Bill
+H 3081 General Bill
+H 3097 General Bill
+
+prog2Processor "Voting Record"
+
+Output:
+H-1991 Nay
+H-1990 Yea
+H-1988 Yea
+H-1987 Yea
+H-1986 Nay
+
+prog2Processor "Service In Public Office"
+
+Output:
+House	of	Representatives,	2015	-	Present

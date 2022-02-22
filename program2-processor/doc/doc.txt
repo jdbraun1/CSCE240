@@ -1,0 +1,10 @@
+The program begins by having all the includes so that I can use strings and read/write files. I use the namespace std for simplicity. The main function is simple.
+It just takes the argument from the command line in the form of: <program name> "<command>". Then if this is formatted correctly it will call the getInfo function. 
+I designed a small GetBroadInfoType function that I could use to determine the category from the 6 main categories. This is mostly used for the contact information data
+however I wanted to make sure I could reuse this code for more specific information from other categories as well if the need arises. The GetBroadInfoType just sees if there 
+is a colon in the command line and then seperates the command line so only the first broad category is returned. In my getInfo method I access my file which is the output file
+from my original first project. The file is in a folder designated data. Then it uses getline to grab the first line of the file. If the line is equal to the BroadInfo category
+it will set collectData to true causes my loop to begin collecting the information until a empty line is reached. If collectData is true I begin a lineStream to look at each word in the line.
+I then have added some if statements that deal with more specific data types. My get address if statetment just prints the next two lines after the line in the file that says home or business
+address. I have another if that looks for the specific info from the command line and then prints only that info for each specific command. Finally if neither of these conditions are met
+the last else causes it to print till it reaches an empty line. All information is printed to the console because I am using eclipse. 
