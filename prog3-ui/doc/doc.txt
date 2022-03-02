@@ -1,0 +1,9 @@
+The program starts with the includes. I included regex, fstream, and sstream for looking through the data. I also included the header file District.h which
+initializes a district with a number and a representative name. GetBroadinfo is used for the GetInfo method so that the code can figure out what is being requested
+from the data file. The getInfo method was from program2 and was only modified slightly to produce a result for everything. HandleQuery takes in a string and then 
+uses regex to determine what is being asked in the query based on key words. If it correctly identifies what is being asked it returns true if not it returns false.
+Valid district is a method for determining if the district chosen is equivalent to the one I have the data for. It includes an exception to make sure the user only
+inputs a number for the district and not anything else. It creates an instance of class District with the number provided by the user In main I call ValidDistrict and 
+if that returns true indicating I have the data for that district it runs the infinite loop that only stops when the user types quit, q, or Quit. It then calls
+HandleQuery and if that returns true it asks if there is anything else the person needs. If it returns false indicating that HandleQuery could not understand it will
+print asking for a different question.
