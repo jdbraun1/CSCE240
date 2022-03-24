@@ -1,0 +1,11 @@
+First I had the includes. These enable me to use strings and certain methods that go along with these as well as
+load files for inputing information. I initilize the int threshold at the top so it can be edited. I use my old 
+getBroadinfo method and it is used for the GetInfo method so that the code  can figure out what is being requested
+from the data file. The getInfo method was from program2 and was only modified slightly to produce a result for when
+everything is asked. I created the new method matchquery that takes in a string to be matched with known questions. 
+MatchQuery returns true if the question is known and false if it is unknown. It refrences the match method which compares 
+two strings. If the two strings share a number of words equal to or greater than the threshold it prints the matching phrase
+and returns true. After I have my valid district method that I use to check to see if the user is looking for info on the
+district that the program has info on. The main method calls valid district it then initiates a random loop where it gets
+input from the command line. If the input is quit or q it ends the program. If not it runs MatchQuery and if it gets a response
+it asks if there is anything else it can do. 
