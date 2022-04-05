@@ -1,0 +1,15 @@
+Welcome to District 5 chatbot!
+What would you like to know about your representative?
+no
+I'm sorry I do not understand: no
+Please rephrase or type quit.
+leave me alone
+I'm sorry I do not understand: leave me alone
+Please rephrase or type quit.
+Your query was understood as: quit
+quit
+Goodbye!
+
+#user_utterance: 3
+#system_utterance: 3
+time duration: 5.256397 s

@@ -1,0 +1,12 @@
+Welcome to District 5 chatbot!
+What would you like to know about your representative?
+sadoig
+I'm sorry I do not understand: sadoig
+Please rephrase or type quit.
+Your query was understood as: quit
+quit
+Goodbye!
+
+#user_utterance: 2
+#system_utterance: 2
+time duration: 3.197675 s
