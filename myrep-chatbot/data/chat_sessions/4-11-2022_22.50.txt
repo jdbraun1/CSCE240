@@ -1,0 +1,12 @@
+Welcome to District 5 chatbot!
+What would you like to know about your representative?
+what do you support for Q/A
+Your query was understood as: What district do you support for Q/A
+District  5 Pickens County Anything else I can help you with? or type quit
+Your query was understood as: quit
+quit
+Goodbye!
+
+#user_utterance: 2
+#system_utterance: 2
+time duration: 13.825917 s

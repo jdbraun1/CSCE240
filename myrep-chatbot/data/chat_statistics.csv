@@ -1,0 +1,7 @@
+S.No, chat_file, #user_utterance, #system_utterance, time taken,	
+1,	data/chat_sessions/4-11-2022_22.50.txt,	2,	2,	13.825917,	
+2,	data/chat_sessions/4-11-2022_23.5.txt,	6,	6,	33.918861,	
+3,	data/chat_sessions/4-11-2022_23.7.txt,	8,	8,	73.659743,	
+4,	data/chat_sessions/4-11-2022_23.13.txt,	9,	9,	48.124894,	
+5,	data/chat_sessions/4-11-2022_23.18.txt,	6,	6,	47.993678,	
+6,	data/chat_sessions/4-11-2022_23.21.txt,	8,	8,	66.121551,	

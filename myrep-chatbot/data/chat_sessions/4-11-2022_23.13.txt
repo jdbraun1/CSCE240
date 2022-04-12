@@ -1,0 +1,92 @@
+Welcome to District 5 chatbot!
+What would you like to know about your representative?
+what is his name
+I'm sorry I do not understand: what is his name
+Please rephrase or type quit.
+who is my rep
+Neal A. Collins Anything else I can help you with? or type quit
+where does he live
+Home Address: P.O. Box 906 Easley 29641 Anything else I can help you with? or type quit
+how do i contact my rep
+Representative Neal A. Collins 
+Republican Pickens 
+District 5 Pickens County 
+Columbia Address 
+418C Blatt Bldg. 
+Columbia 29201 
+Business Phone (803) 212-6913 
+Home Address 
+P.O. Box 906 
+Easley 29641 
+Home Phone (864) 350-4175 
+Anything else I can help you with? or type quit
+tell me everything
+Contact Information
+Representative	Neal	A.	Collins	
+Republican	Pickens	
+District	5	Pickens	County
+Columbia	Address
+418C	Blatt	Bldg.	
+Columbia	29201	
+Business	Phone	(803)	212-6913	
+Home	Address
+P.O.	Box	906	
+Easley	29641	
+Home	Phone	(864)	350-4175	
+
+Personal Information
+Attorney	
+Residing	in	Easley	
+Born	July	6,	1982	in	Easley	
+Son	of	Jack	B.	Collins,	William	C.	Clardy,	and	Mary	R.	Clardy	
+Furman	University,	B.A.,	2004	
+University	of	South	Carolina,	School	of	Law,	J.D.,	2007	
+Eagle	Scout	
+Member,	South	Carolina	Bar	Association	
+North	Carolina	Bar	Association	
+NCAA	Wrestling	Official	
+USPA	B-licensed	skydiver	
+Boy	Scouts	of	America,	Blue	Ridge	Council	
+Pickens	District	Board	
+Easley	Chamber	of	Commerce	
+Honorary	member,	Easley	Rotary	Club	
+Chairman,	South	Carolina	House	Freshmen	Caucus,	2014	
+
+Committee Assignments
+Ethics	
+Judiciary,	2nd	V.C.
+
+Sponsored Bills in the House
+H 3066 General Bill
+H 3079 Joint Resolution
+H 3080 General Bill
+H 3081 General Bill
+H 3097 General Bill
+
+Voting Record
+H-1991 Nay
+H-1990 Yea
+H-1988 Yea
+H-1987 Yea
+H-1986 Nay
+
+Service In Public Office
+House	of	Representatives,	2015	-	Present	
+
+	
+Anything else I can help you with? or type quit
+what committees is my repo on
+Your query was understood as: What committees is my rep on
+Ethics 
+Judiciary, 2nd V.C. 
+Anything else I can help you with? or type quit
+what district do you support for Q/A
+District  5 Pickens County Anything else I can help you with? or type quit
+where does the rep live
+Home Address: P.O. Box 906 Easley 29641 Anything else I can help you with? or type quit
+quit
+Goodbye!
+
+#user_utterance: 9
+#system_utterance: 9
+time duration: 48.124894 s

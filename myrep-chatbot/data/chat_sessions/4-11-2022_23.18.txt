@@ -1,0 +1,32 @@
+Welcome to District 5 chatbot!
+What would you like to know about your representative?
+who is my rep
+Neal A. Collins Anything else I can help you with? or type quit
+what district do you support for Q/A
+District  5 Pickens County Anything else I can help you with? or type quit
+how do I contact my rep
+Representative Neal A. Collins 
+Republican Pickens 
+District 5 Pickens County 
+Columbia Address 
+418C Blatt Bldg. 
+Columbia 29201 
+Business Phone (803) 212-6913 
+Home Address 
+P.O. Box 906 
+Easley 29641 
+Home Phone (864) 350-4175 
+Anything else I can help you with? or type quit
+what committees is he on
+I'm sorry I do not understand: what committees is he on
+Please rephrase or type quit.
+what committees is my rep on
+Ethics 
+Judiciary, 2nd V.C. 
+Anything else I can help you with? or type quit
+quit
+Goodbye!
+
+#user_utterance: 6
+#system_utterance: 6
+time duration: 47.993678 s

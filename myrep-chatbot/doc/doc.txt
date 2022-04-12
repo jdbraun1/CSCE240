@@ -1,0 +1,9 @@
+In this program I started by using all my methods from my last project. I modified GetInfo a little bit so it would output to a file as well as
+print what was searched for. I had to make the out file name a universal variable so the name could be modified in one method and then called in
+all my previously created methods. The one new method I made was create chat file. That one works by getting the time and date using chrono creating
+a file and then returning the name of the file for manipulation by the rest of the program. The main function has a few command line options. If 
+none are selected then it will run the chatbot until quit is typed. All the chat is stored in a file with name mm-dd-yyyy_hr.min if I tried to use
+a colon for the time I got an error. After the user types quit the program calculates all the variables that are put at the bottom of the file.
+There is then the else statement for if there was a command line argument. The program supports summary, showchat, and showchat-summary. Any number can
+be input and the program will throw an error if the number is too high. Please refer to the log.txt file for examples
+of the program interacting.
